@@ -15,4 +15,4 @@ Although all the included scripts are guaranteed to find the fundamental group o
 
 A work around for this is to watch when they break, restart them from that point, and combine the data files at the end.
 
-Further caution: I refer to "the number of generators" of a finitely presented group as "the order" of the group basically everywhere here - they are not the same!
+Further caution: I refer to "the number of generators" of a finitely presented group as "the order" of the group basically everywhere here - even if "rank" is closer to what I mean, I am still only talking about the number of generators!
